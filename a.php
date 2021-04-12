@@ -1,2 +1,4 @@
-a.php
-b.php
+
+<?php
+
+echo 'php';
